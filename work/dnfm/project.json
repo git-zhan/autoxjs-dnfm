@@ -1,0 +1,14 @@
+{
+    "name": "learn",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "launchConfig": {
+        "hideLogs": true
+    },
+    "packageName": "com.zxx.learn",
+    "versionName": "1.0.0",
+    "versionCode": 5,
+    "type": "module"
+}
